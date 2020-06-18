@@ -1,0 +1,13 @@
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\bin\Debug\netcoreapp3.1\varPractice.exe
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\bin\Debug\netcoreapp3.1\varPractice.deps.json
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\bin\Debug\netcoreapp3.1\varPractice.runtimeconfig.json
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\bin\Debug\netcoreapp3.1\varPractice.runtimeconfig.dev.json
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\bin\Debug\netcoreapp3.1\varPractice.dll
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\bin\Debug\netcoreapp3.1\varPractice.pdb
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\obj\Debug\netcoreapp3.1\varPractice.csprojAssemblyReference.cache
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\obj\Debug\netcoreapp3.1\varPractice.AssemblyInfoInputs.cache
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\obj\Debug\netcoreapp3.1\varPractice.AssemblyInfo.cs
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\obj\Debug\netcoreapp3.1\varPractice.csproj.CoreCompileInputs.cache
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\obj\Debug\netcoreapp3.1\varPractice.dll
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\obj\Debug\netcoreapp3.1\varPractice.pdb
+C:\Users\harle\Desktop\TrueCoders\repos\varPractice\obj\Debug\netcoreapp3.1\varPractice.genruntimeconfig.cache
