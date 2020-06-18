@@ -17,13 +17,12 @@ namespace varPractice
             char favLetter = 'h';
 
 
-
             Console.WriteLine("Character Build");
             Console.WriteLine($"Character Name: {firstName} {lastName}");
             Console.WriteLine($"Character Stats: Damage:{damage}, Charisma:{charisma}, Dexterity: {dexterity} ");
             Console.WriteLine($"Male: {male}, Age: {age}, Height: {height}");
             Console.WriteLine($"His favorate letter in the alphabet is {favLetter}.");
-           
+            Console.WriteLine("MONAY");
         }
     }
 }
