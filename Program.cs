@@ -15,17 +15,17 @@ namespace varPractice
             int age = 25;
             decimal height = 6.1m;
             char favLetter = 'h';
-
+            
+            //random comment
 
             Console.WriteLine("Character Build");
             Console.WriteLine($"Character Name: {firstName} {lastName}");
-            Console.WriteLine($"Character Stats: " +
-                $"Damage:{damage}, " +
-                $"Charisma:{charisma}, " +
-                $"Dexterity: {dexterity} ");
+            Console.WriteLine($"Character Stats: Damage:{damage}, Charisma:{charisma}, Dexterity: {dexterity} ");
             Console.WriteLine($"Male: {male}, Age: {age}, Height: {height}");
             Console.WriteLine($"His favorate letter in the alphabet is {favLetter}.");
             Console.WriteLine("The point of this is to be the winner!");
+            Console.WriteLine("What is the issue I have?");
+
         }
     }
 }
