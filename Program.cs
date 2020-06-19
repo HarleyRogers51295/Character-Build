@@ -19,10 +19,13 @@ namespace varPractice
 
             Console.WriteLine("Character Build");
             Console.WriteLine($"Character Name: {firstName} {lastName}");
-            Console.WriteLine($"Character Stats: Damage:{damage}, Charisma:{charisma}, Dexterity: {dexterity} ");
+            Console.WriteLine($"Character Stats: " +
+                $"Damage:{damage}, " +
+                $"Charisma:{charisma}, " +
+                $"Dexterity: {dexterity} ");
             Console.WriteLine($"Male: {male}, Age: {age}, Height: {height}");
             Console.WriteLine($"His favorate letter in the alphabet is {favLetter}.");
-            Console.WriteLine("MONAY");
+            Console.WriteLine("The point of this is to be the winner!");
         }
     }
 }
